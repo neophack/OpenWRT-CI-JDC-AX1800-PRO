@@ -224,9 +224,7 @@ jobs:
           tag_name: ${{env.WRT_TARGET}}_${{env.WRT_VER}}_${{env.WRT_DATE}}
           files: ./wrt/upload/*.*
           body: |
-            JDC AX1800-Pro固件
-
-            带开源硬件加速，别问了！
+            JDC AX1800-Pro固件,带开源硬件加速
 
             源码：${{env.WRT_REPO}}
             分支：${{env.WRT_BRANCH}}
