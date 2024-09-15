@@ -1,3 +1,5 @@
+# fork自VIKINGYFY大佬，修改为自己常用插件，感谢大佬们的付出
+
 # OpenWRT-CI
 云编译OpenWRT固件
 
