@@ -1,4 +1,4 @@
-# Fork自VIKINGYFY大佬，加入自己常用插件，感谢大佬们的付出
+# Fork自[VIKINGYFY大佬的项目](https://github.com/VIKINGYFY/OpenWRT-CI)，加入自己常用插件，感谢大佬们的付出
 
 # OpenWRT-CI
 云编译OpenWRT固件
