@@ -226,6 +226,8 @@ jobs:
           body: |
             JDC AX1800-Pro固件,带开源硬件加速
 
+            WIFI密码：12345678
+
             源码：${{env.WRT_REPO}}
             分支：${{env.WRT_BRANCH}}
             平台：${{env.WRT_TARGET}}
