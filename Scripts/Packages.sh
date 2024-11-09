@@ -37,6 +37,7 @@ UPDATE_PACKAGE "luci-app-gecoosac" "lwb1978/openwrt-gecoosac" "main"
 #UPDATE_PACKAGE "luci-app-wolplus" "VIKINGYFY/luci-app-wolplus" "main"
 
 UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
+UPDATE_PACKAGE "alist" "sbwml/luci-app-alist" "main"
 
 
 if [[ $WRT_REPO != *"immortalwrt"* ]]; then
@@ -78,4 +79,4 @@ UPDATE_VERSION() {
 }
 
 #UPDATE_VERSION "软件包名" "测试版，true，可选，默认为否"
-UPDATE_VERSION "sing-box" "true"
+UPDATE_VERSION "sing-box"
